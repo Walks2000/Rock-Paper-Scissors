@@ -7,3 +7,12 @@ c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Pap
 c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
 c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
 c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.Cache
