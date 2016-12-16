@@ -1,9 +1,0 @@
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.Cache
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
-c:\users\neil\documents\visual studio 2012\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
