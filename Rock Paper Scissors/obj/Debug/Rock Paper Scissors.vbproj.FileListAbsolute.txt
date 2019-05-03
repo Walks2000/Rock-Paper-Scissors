@@ -16,3 +16,14 @@ C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Pap
 C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
 C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
 C:\Users\Neil\Documents\Visual Studio 2012\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.Cache
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbprojAssemblyReference.cache
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.cache
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.CoreCompileInputs.cache
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
+C:\Users\Walks\Documents\Visual Studio 2017\Projects\Rock Paper Scissors\Rock-Paper-Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb

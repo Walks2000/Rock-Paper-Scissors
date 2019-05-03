@@ -5,19 +5,17 @@ Module Module1
     Public UserInput As String
     Sub Main()
         Console.WriteLine("Welcome to Rock Paper Scissors!" & vbCrLf & "Please enter either: Rock, Paper or Scissors now.")
-        Dim UserInput As String = Console.ReadLine()
-        UserInput = UppercaseFirstLetter(UserInput)
-        If UserInput <> "Rock" And UserInput <> "Paper" And UserInput <> "Scissors" Then
-            Dim UserInputValid As Boolean = False
-            While UserInputValid = False
-                Console.WriteLine("That was not a valid input, try again.")
-                UserInput = Console.ReadLine()
-                If UserInput <> "Rock" And UserInput <> "Paper" And UserInput <> "Scissors" Then
-                Else
-                    UserInputValid = True
-                End If
-            End While
-        End If
+        Dim UserInput As String = vbNull
+        Dim UserInputValid As Boolean = False
+        While UserInputValid = False
+            UserInput = UppercaseFirstLetter(Console.ReadLine)
+            If UserInput = "Rock" Or UserInput = "Paper" Or UserInput = "Scissors" Then
+                UserInputValid = True
+                Exit While
+            End If
+            Console.WriteLine("That was not a valid input, try again.")
+        End While
+        Console.Clear()
         Dim AIInput As String = AI()
         Console.Write(String.Format("You picked: {0}{1}The computer picked: {2}{1}", UserInput, Environment.NewLine, AIInput))
         If UserInput = AIInput Then
@@ -53,6 +51,7 @@ Module Module1
                 Return "Scissors"
             Case Else
                 Return "Failed"
+                Throw New ArgumentException("Exception Occured")
         End Select
     End Function
     Function UppercaseFirstLetter(ByVal val As String) As String
